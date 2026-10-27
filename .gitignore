@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+banking.db
+instance/
+.pytest_cache/
+.coverage
+.DS_Store
+Thumbs.db
